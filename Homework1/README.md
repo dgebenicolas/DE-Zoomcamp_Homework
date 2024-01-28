@@ -1,0 +1,2 @@
+-The data used in this homework was taken from the NYC TLC website, particularly the Green Taxi Dataset and Zone Lookup dataset were used.
+-the data was ingested into a postgres database using the python scripts ingest_data.py and zones.py resepectively, both these scripts 
